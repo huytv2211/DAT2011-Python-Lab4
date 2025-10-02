@@ -5,3 +5,5 @@ Trong bài này giảng viên đã tạo sẳn module có lab4 có tên Lab4_mod
 tạo ra các hàm theo yêu cầu bài 4.
 Ngoài ra còn có file lab4.ipynb : định dạng file jupyter notebook
 và 1 file Lab4_main.py
+
+Trong chương trình chính chạy sinh viên có thể chọn chạy trên Lab4_main.py hoặc Lab4.ipynb
